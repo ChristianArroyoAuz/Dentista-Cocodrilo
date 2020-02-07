@@ -1,0 +1,22 @@
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Base de Datos\cocodriloDB.mdf
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Base de Datos\cocodriloDB_log.ldf
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Dentista_Cocodrilo.exe.config
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Dentista_Cocodrilo.exe
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Dentista_Cocodrilo.pdb
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Servidor.pdb
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\bin\Debug\Servidor.exe.config
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Cocodrilo.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Inicio.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Instrucciones.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Login.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Presentacion.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Programador.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.Registro.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.exe
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Dentista_Cocodrilo\obj\Debug\Dentista_Cocodrilo.pdb

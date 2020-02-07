@@ -1,0 +1,12 @@
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\bin\Debug\Base de Datos\cocodriloDB.mdf
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\bin\Debug\Base de Datos\cocodriloDB_log.ldf
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\bin\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.Servidor.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Cocodrilo-Dentista\Servidor\obj\Debug\Servidor.pdb
